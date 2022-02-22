@@ -11,6 +11,8 @@ and here is italic:
 _wow!_  
 and here is bf:  
 **aha!**
+and here is emo:  
+:dancer:  
 
 I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
 
